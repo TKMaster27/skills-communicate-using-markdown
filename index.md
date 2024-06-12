@@ -1,3 +1,5 @@
 # A whole new world
 
 added text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
